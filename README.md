@@ -61,7 +61,7 @@ The data **mtcars** in R package **datasets** was extracted from the 1974 Motor 
 If we choose $\alpha=0.01$, then we have:
 
 
-$$\theta=\begin{pmatrix} 34.9604612\\-0.0177253 \\-3.3507588 \end{pmatrix}$$
+$$\theta=\begin{pmatrix} 34.9604612\\\-0.0177253 \\\-3.3507588 \end{pmatrix}$$
 
 ## Plotting the regression plane
 

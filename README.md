@@ -61,7 +61,7 @@ The data **mtcars** in R package **datasets** was extracted from the 1974 Motor 
 If we choose $\alpha=0.01$, then we have:
 
 
-\[\theta=\begin{pmatrix} 34.9604612\\-0.0177253 \\-3.3507588 \end{pmatrix}\]
+$$\theta=\begin{pmatrix} 34.9604612\\-0.0177253 \\-3.3507588 \end{pmatrix}$$
 
 ## Plotting the regression plane
 
@@ -91,7 +91,7 @@ $\qquad\quad$For a Displacement = 130 cu.in  and a Weight=2650 lbs, we predict *
 
 # Multiple Linear Regression using lm() function of R (Normal equation)
 
-\[\theta=(X^TX)^{-1}X^Ty.\]
+$$\theta=(X^TX)^{-1}X^Ty.$$
 
 
 ```

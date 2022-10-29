@@ -78,7 +78,7 @@ $$\theta=\begin{pmatrix}
 ![](myReg3Dplots.gif)<!-- -->
 
 ## Predictions
-* **Predict number of Miles/(US) gallon (mpg) for a Displacement of 300.0 cu.in. and a Weight of 4500 lbs** ($4.500\times 1000 lbs$):
+* **Predict number of Miles/(US) gallon (mpg) for a Displacement of 300.0 cu.in. and a Weight of 4500 lbs** (4.500$\times$1000 lbs):
 
 
 
@@ -87,7 +87,7 @@ $\qquad\quad$For a Displacement = 300 cu.in  and a Weight=4500 lbs, we predict *
 \
 &nbsp;
 
-* **Predict number of Miles/(US) gallon (mpg) for a Displacement of 130.0 cu.in. and a Weight of 2650 lbs** ($2.650\times 1000 lbs$):
+* **Predict number of Miles/(US) gallon (mpg) for a Displacement of 130.0 cu.in. and a Weight of 2650 lbs** (2.650$\times$1000 lbs):
 
 
 
@@ -139,7 +139,7 @@ We can see that the values of the fitted parameters are $\hat{\theta_0}=34.96055
 
 
 ## Predictions
-* **Predict number of Miles/(US) gallon (mpg) for a Displacement of 300.0 cu.in. and a Weight of 4500 lbs** ($4.500\times 1000 lbs$):
+* **Predict number of Miles/(US) gallon (mpg) for a Displacement of 300.0 cu.in. and a Weight of 4500 lbs** (4.500\$times$1000 lbs):
 
 
 
@@ -148,7 +148,7 @@ $\qquad\quad$For a Displacement = 300 cu.in  and a Weight=4500 lbs, we predict *
 \
 &nbsp;
 
-* **Predict number of Miles/(US) gallon (mpg) for a Displacement of 130.0 cu.in. and a Weight of 2650 lbs** ($2.650\times 1000 lbs$):
+* **Predict number of Miles/(US) gallon (mpg) for a Displacement of 130.0 cu.in. and a Weight of 2650 lbs** (2.650$\times$1000 lbs):
 
 
 $\qquad\quad$For a Displacement = 130 cu.in  and a Weight=2650 lbs, we predict **23.78** miles/(US) gallon (mpg).

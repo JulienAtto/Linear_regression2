@@ -5,7 +5,7 @@
 
 
 Multiple linear regression is a statistical method for finding a linear relationship between $n$ explanatory variables $X_1, X_2, \cdots, X_n$ $(n\geq 2)$ and a variable to be explained $y$:
-\[y= \theta_0 + \theta_1 X_1 + \theta_2 X_2 + \cdots + \theta_n X_n.\]
+$$y= \theta_0 + \theta_1 X_1 + \theta_2 X_2 + \cdots + \theta_n X_n.$$
 
 # Data preparation and visualisation
 

@@ -1,4 +1,4 @@
-\[\Big\textbf{Multiple Linear Regression}\]
+<title>Multiple Linear Regression</title>
 
 [https://julienatto.github.io/Linear_regression2/](https://julienatto.github.io/Linear_regression2/)
 
